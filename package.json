@@ -23,7 +23,7 @@
     "pluralize": "^8.0.0"
   },
   "devDependencies": {
-    "@types/jest": "^26.0.24",
+    "@types/jest": "^27.0.3",
     "@types/node": "^16.4.10",
     "@types/yargs": "^17.0.2",
     "@typescript-eslint/eslint-plugin": "^4.29.0",
