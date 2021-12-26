@@ -1,6 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: "npm"
-    directory: "/"
+  - package-ecosystem: "pip"
+    directory: "queilawithaQ/fetch-metadataa"
     schedule:
-      interval: "weekly"
+      interval: "daily"
